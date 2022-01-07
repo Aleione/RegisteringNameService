@@ -1,0 +1,10 @@
+{
+  "42": {
+    "minDisclosingPeriod": "100",
+    "lockingPeriod": "5000",
+    "token": "0xdcfab8057d08634279f8201b55d311c2a67897d2",
+    "lockingAmount": "1000000000",
+    "maxNameSize": "100",
+    "byteFee": "100000"
+  }
+}

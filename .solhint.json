@@ -1,0 +1,9 @@
+{
+  "extends": "solhint:recommended",
+  "rules": {
+    "reason-string": ["warn", { "maxLength": 50 }],
+    "func-visibility": ["warn",{"ignoreConstructors":true}],
+    "compiler-version": ["error", "0.7.6"],
+    "var-name-mixedcase": "off"
+  }
+}
